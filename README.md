@@ -1,5 +1,7 @@
 SleekGeek.io Net Tester
+
 Version 1.0
+
 (C) 2023 by Anthony Kinyon
 
 This Linux application will allow you to quickly perform a ping, traceroute, or nslookup of an IP address, domain name, or Web domain name, and also has a button to take you to a WHOIS lookup for Web domains.
